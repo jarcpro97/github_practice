@@ -27,3 +27,5 @@ config.env
 credenciales.cfg
 config.env
 credenciales.cfg
+.config.env
+.credenciales.cfg
